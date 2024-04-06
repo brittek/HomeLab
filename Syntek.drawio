@@ -1,75 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2024-04-06T15:37:24.997Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.2" etag="WluC50txqeK6_Eed2TGL" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-06T15:48:26.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="SEArGvTh-QpSFvqwSDOM" version="24.2.2" type="github">
   <diagram name="Page-1" id="wGzsMfhRacg5vTO0N9fS">
-    <mxGraphModel>
+    <mxGraphModel dx="1730" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Physical Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry width="726" height="355" as="geometry" />
+        <mxCell id="2" value="Physical Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-120" y="10" width="900" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="HPE OfficeConnect 1920s Switch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="3" value="HPE OfficeConnect 1920s Switch" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="303" y="117" width="247" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="4" value="HP ProDesk 600 G3 SFF" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="4" value="HP ProDesk 600 G3 SFF" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="337" y="33" width="179" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="5" value="NetComm Wifi 6 Hybrid Gateway" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="5" value="NetComm Wifi 6 Hybrid Gateway" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="448" y="201" width="251" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="6" value="4-Port Switch" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="6" value="4-Port Switch" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="225" y="201" width="111" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="HP All-In-One PC" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="7" value="HP All-In-One PC" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="43" y="304" width="135" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="8" value="Intel NUC #1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="8" value="Intel NUC #1" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="228" y="304" width="105" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="Intel NUC #2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="9" value="Intel NUC #2" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="382" y="304" width="105" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="10" value="Internet" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="2">
+        <mxCell id="10" value="Internet" style="whiteSpace=wrap;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="537" y="304" width="73" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5007914537824066;exitY=1;entryX=0.5005735636722703;entryY=0;" edge="1" parent="2" source="4" target="3">
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.5007914537824066;exitY=1;entryX=0.5005735636722703;entryY=0;" parent="2" source="4" target="3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.7410682264908628;exitY=1;entryX=0.49960159970469686;entryY=0;" edge="1" parent="2" source="3" target="5">
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.7410682264908628;exitY=1;entryX=0.49960159970469686;entryY=0;" parent="2" source="3" target="5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="573" y="176" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.26007890085367796;exitY=1;entryX=0.4944444948488528;entryY=0;" edge="1" parent="2" source="3" target="6">
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.26007890085367796;exitY=1;entryX=0.4944444948488528;entryY=0;" parent="2" source="3" target="6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="280" y="176" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=none;exitX=-0.0036786397298177085;exitY=0.993861111047818;entryX=0.49851854112413196;entryY=0;" edge="1" parent="2" source="6" target="7">
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=none;exitX=-0.0036786397298177085;exitY=0.993861111047818;entryX=0.49851854112413196;entryY=0;" parent="2" source="6" target="7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="110" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.4944444948488528;exitY=1;entryX=0.4941270374116443;entryY=0;" edge="1" parent="2" source="6" target="8">
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.4944444948488528;exitY=1;entryX=0.4941270374116443;entryY=0;" parent="2" source="6" target="8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.9541022077920943;exitY=1;entryX=0.4995238531203497;entryY=0;" edge="1" parent="2" source="6" target="9">
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.9541022077920943;exitY=1;entryX=0.4995238531203497;entryY=0;" parent="2" source="6" target="9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="434" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="17" value="dotted" style="curved=1;startArrow=none;endArrow=none;exitX=0.49960159970469686;exitY=1;entryX=0.49863015788875215;entryY=0;" edge="1" parent="2" source="5" target="10">
+        <mxCell id="17" value="dotted" style="curved=1;startArrow=none;endArrow=none;exitX=0.49960159970469686;exitY=1;entryX=0.49863015788875215;entryY=0;" parent="2" source="5" target="10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
