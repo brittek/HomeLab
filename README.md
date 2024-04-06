@@ -1,0 +1,2 @@
+# syntek
+Syntek Homelab Server
